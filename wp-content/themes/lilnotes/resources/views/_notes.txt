@@ -1,0 +1,12 @@
+Homepage
+````````
+
+Logo
+Top navigation
+Search
+Featured article
+Articles list
+Welcome to blog
+Bottom navigation
+Copyright
+

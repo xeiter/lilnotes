@@ -1,0 +1,14 @@
+# Content
+wp-content/upgrade
+wp-content/uploads
+wp-content/mu-plugins
+
+# Theme additions
+
+.DS_Store
+.htaccess
+wp-config.php
+deploy.sh
+.idea
+.vscode
+

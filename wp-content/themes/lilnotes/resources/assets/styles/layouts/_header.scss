@@ -1,0 +1,28 @@
+.banner {
+  background-color: $brand-primary;
+  height: 70px;
+  .custom-logo-link {
+    display: block;
+    position: absolute;
+    img {
+      max-width: 120px;
+      margin-top: 5px;
+      height: inherit;
+    }
+  }
+  .navbar {
+    padding: .9rem 1rem;
+    .nav {
+      li {
+        @extend .nav-item;
+        a {
+          @extend .nav-link;
+          font-family: $font-family-heading;
+          color: $white;
+          font-weight: 100;
+          font-size: 1.1rem;
+        }
+      }
+    }
+  }
+}

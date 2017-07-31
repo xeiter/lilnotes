@@ -1,0 +1,17 @@
+/* Styles for navigation */
+
+.nav-primary {
+  .nav {
+    .menu-item {
+      .nav-link {
+        color: $brand-primary;
+      }
+      &.current-menu-item {
+        .nav-link {
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}
+
